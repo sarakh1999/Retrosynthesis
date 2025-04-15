@@ -20,7 +20,7 @@
 |     |   |  |
 |     |   |  |
 |     |    |  |
-|     |    |  |
+|     |   [OpenAI](https://www.openai.com) |  |
 |    |  [Retrosynthesis Prediction with Local Template Retrieval] (https://arxiv.org/pdf/2306.04123)  | 2023 |
 |      |    |  |
 |      |   | |
