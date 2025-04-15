@@ -1,23 +1,108 @@
 # Retrosynthesis
-# Example Project
-
-This repository contains a dataset summary in tabular form. Below is a sample chart displaying 100 entries.
-
-## 📊 Sample Chart
 
 | Index | Paper       | Year   |
 |-------|------------|----------|
-| 1     |  [https://arxiv.org/pdf/2104.03279](https://arxiv.org/pdf/2104.03279) | 2021 |
-| 2     |    |  |
-| 3     |   | |
-| 4     |  |  |
-| 5     |    |  |
-| 6     |    | |
-| 7     |   |  |
-| 8     |   |  |
-| 9     |    |  |
-| 10    |    |  |
-| 11    |    |  |
+|      |    |  |
+|      |   | |
+|      |  |  |
+|      |    |  |
+|      |    | |
+|     |   |  |
+|     |   |  |
+|     |    |  |
+|     |    |  |
+|    |    |  |
+|      |    |  |
+|      |   | |
+|      |  |  |
+|      |    |  |
+|      |    | |
+|     |   |  |
+|     |   |  |
+|     |    |  |
+|     |    |  |
+|    |  [https://arxiv.org/pdf/2306.04123] Retrosynthesis Prediction with Local Template Retrieval  | 2023 |
+|      |    |  |
+|      |   | |
+|      |  |  |
+|      |    |  |
+|      |    | |
+|     |   |  |
+|     |   |  |
+|     |    |  |
+|     |    |  |
+|    |    |  |
+|      |    |  |
+|      |   | |
+|      |  |  |
+|      |    |  |
+|      |    | |
+|     |   |  |
+|     |   |  |
+|     |    |  |
+|     |    |  |
+|    |    |  |
+|      |    |  |
+|      |   | |
+|      |  |  |
+|      |    |  |
+|      |    | |
+|     |   |  |
+|     |   |  |
+|     |    |  |
+|     |    |  |
+|    |    |  |
+|      |  [https://arxiv.org/pdf/2104.03279] (Modern Hopfield Networks for Few- and Zero-Shot Reaction Template Prediction) | 2021 |
+|      |  [https://pubs.acs.org/doi/10.1021/jacsau.1c00246] (Deep Retrosynthetic Reaction Prediction using Local Reactivity and Global Attention)  | 2021 |
+|      |   | |
+|      |  |  |
+|      |    |  |
+|      |    | |
+|     |   |  |
+|     |   |  |
+|     |    |  |
+|     |    |  |
+|    |    |  |
+|      |    |  |
+|      |   | |
+|      |  |  |
+|      |    |  |
+|      |    | |
+|     |   |  |
+|     |   |  |
+|     |    |  |
+|     |    |  |
+|    |    |  |
+|      |    |  |
+|      |   | |
+|      |  |  |
+|      |    |  |
+|      |    | |
+|     |   |  |
+|     |   |  |
+|     |    |  |
+|     |    |  |
+|    |    |  |
+|      |    |  |
+|      |   | |
+|      |  |  |
+|      |    |  |
+|      |    | |
+|     |   |  |
+|     |   |  |
+|     |    |  |
+|     |    |  |
+|    |    |  |
+|      |    |  |
+|      |   | |
+|      |  |  |
+|      |    |  |
+|      |    | |
+|     |   |  |
+|     |   |  |
+|     |    |  |
+|     |    |  |
+|    |    |  |
 
 
 Papers to read:
