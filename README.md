@@ -21,7 +21,7 @@
 |     |   |  |
 |     |    |  |
 |     |    |  |
-|    |  [https://arxiv.org/pdf/2306.04123] Retrosynthesis Prediction with Local Template Retrieval  | 2023 |
+|    |  [Retrosynthesis Prediction with Local Template Retrieval] (https://arxiv.org/pdf/2306.04123)  | 2023 |
 |      |    |  |
 |      |   | |
 |      |  |  |
