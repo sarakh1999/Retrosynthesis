@@ -1,4 +1,4 @@
-| Name | GitHub | Year | Method | Template Type | Step Type | Top1 | Top 5
+| Name | GitHub | Year | Method | Template Type | Step Type |
 |------|--------|------|--------|----------------|-----------|
 | [Modern Hopfield Networks for Few- and Zero-Shot Reaction Template Prediction](https://arxiv.org/pdf/2104.03279) | [GitHub](https://github.com/ml-jku/mhn-react) | 2021 | Transformers | template-based | single step |
 | [Deep Retrosynthetic Reaction Prediction using Local Reactivity and Global Attention](https://pubs.acs.org/doi/10.1021/jacsau.1c00246) |  | 2021 |  |  |  |
