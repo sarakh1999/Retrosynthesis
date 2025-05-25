@@ -5,7 +5,7 @@
 | 3 | [Re-evaluating Retrosynthesis Algorithms with Syntheseus](https://arxiv.org/pdf/2310.19796) | [GitHub](https://github.com/microsoft/syntheseus) | 2024 |  |  | single-step models and multi-step |
 | 4 | [RetroKNN (Retrosynthesis Prediction with Local Template Retrieval)](https://arxiv.org/pdf/2306.04123) |  | 2023 | Graph Neural Networks | template-based |  |
 | 5 | [RetCL: A Selection-based Approach for Retrosynthesis via Contrastive Learning](https://arxiv.org/pdf/2105.00795) |  | 2021 | Contrastive learning | selection based | single step |
-| 6 | [Diverse and Feasible Retrosynthesis using GFlowNets](https://arxiv.org/pdf/2406.18739) | [GitHub](https://github.com/gmum/RetroGFN) | 2025 |  |  | single step |
+| 6 | [Diverse and Feasible Retrosynthesis using GFlowNets](https://arxiv.org/pdf/2406.18739) | [GitHub](https://github.com/gmum/RetroGFN) | 2025 |  | semi-template | single step |
 | 7 | [Chemformer: a pre-trained transformer for computational chemistry](https://iopscience.iop.org/article/10.1088/2632-2153/ac3ffb/pdf) |  | 2022 |  |  |  |
 | 8 | [Retrosynthesis prediction using an end-to-end graph generative architecture for molecular graph editing](https://www.nature.com/articles/s41467-023-38851-5) | [GitHub](https://github.com/Jamson-Zhong/Graph2Edits) | 2023 |  |  |  |
 | 9 | [Learning Graph Models for Retrosynthesis Prediction](https://arxiv.org/pdf/2006.07038) | [GitHub](https://github.com/vsomnath/graphretro) | 2021 | Graph Neural Networks | semi-template-based | single step |
