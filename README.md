@@ -21,6 +21,6 @@
 | 19 | [PaRoutes: towards a framework for benchmarking retrosynthesis route predictions](https://pubs.rsc.org/en/content/articlehtml/2022/dd/d2dd00015f) |  | 2022 |  |  | multi-step |
 | 20 | [Retrosynthetic Planning with Dual Value Networks](https://arxiv.org/html/2301.13755v3#bib.bib12) | [GitHub](https://github.com/DiXue98/PDVN.) | 2024 | Reinceforment Learning | template-based | single step |
 | 21 | [Retrosynthesis Prediction via Search in (Hyper) Graph](https://arxiv.org/html/2402.06772v1) |  | 2024 | Graph Neural Networks | semi-template-based | single step |
-| 22 |[RetroXpert: Decompose Retrosynthesis Prediction Like A Chemist](https://arxiv.org/pdf/2011.02893) |  | 2020 | Graph Neural Networks | template-free | single step |
+| 22 |[RetroXpert: Decompose Retrosynthesis Prediction Like A Chemist](https://arxiv.org/pdf/2011.02893) | [Github](https://github.com/uta-smile/RetroXpert) | 2020 | Graph Neural Networks | template-free | single step |
 | 23 |[RetroGraph: Retrosynthetic Planning with Graph Search](https://arxiv.org/pdf/2206.11477) |  | 2022 | Graph Neural Networks | template-based | single step |
 | 24 |[RetRek: AI-Driven Synthetic Route Design Incorporated with Retrosynthesis Knowledge](https://pubs.acs.org/doi/10.1021/acs.jcim.1c01074) |  | 2022 | Graph Neural Networks | template-based | single step |
